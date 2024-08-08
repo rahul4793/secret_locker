@@ -1,0 +1,45 @@
+{
+<<<<<<< HEAD
+  "name": "intern",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "engines":{
+    "node":"v14.18.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "connect": "^3.7.0",
+    "ejs": "^3.1.7",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.2"
+  },
+  "devDependencies": {},
+  "description": ""
+=======
+  "name": "secrets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "dotenv": "^16.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.5",
+    "mongoose-encryption": "^2.1.2",
+    "node": "^17.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+>>>>>>> 209a4a5 (Add Enviroment Variable)
+}
